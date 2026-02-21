@@ -2,12 +2,18 @@ project:
   type: website
 
 website:
-  title: "field2ipm.github.io"
+  title: "IPMs: From field data collection to model construction and analysis"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - apply.qmd
+      - faq.qmd
+      - href: https://www.rmbl.org/
+        text: "Venue: RMBL"
+      - schedule.qmd
+      - content.qmd
+  search: 
+    location: navbar
+    type: overlay
 
 format:
   html:
