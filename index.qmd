@@ -1,5 +1,5 @@
 ---
-title: "field2ipm.github.io"
+title: "Integral Projection Models: From field data collection to model construction and analysis"
 ---
 
 This is a Quarto website.
