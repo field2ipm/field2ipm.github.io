@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://field2ipm.github.io/apply.html</loc>
-    <lastmod>2026-02-21T05:52:02.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://field2ipm.github.io/faq.html</loc>
-    <lastmod>2026-02-21T05:52:02.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://field2ipm.github.io/index.html</loc>
-    <lastmod>2026-02-21T05:52:02.918Z</lastmod>
+    <loc>https://field2ipm.github.io/schedule.html</loc>
+    <lastmod>2026-02-24T15:23:56.134Z</lastmod>
   </url>
   <url>
     <loc>https://field2ipm.github.io/content.html</loc>
-    <lastmod>2026-02-21T05:52:02.918Z</lastmod>
+    <lastmod>2026-02-24T15:23:56.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://field2ipm.github.io/index.html</loc>
+    <lastmod>2026-02-24T15:23:56.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://field2ipm.github.io/faq.html</loc>
+    <lastmod>2026-02-24T15:23:56.131Z</lastmod>
+  </url>
+  <url>
+    <loc>https://field2ipm.github.io/apply.html</loc>
+    <lastmod>2026-02-24T15:23:56.130Z</lastmod>
   </url>
 </urlset>
