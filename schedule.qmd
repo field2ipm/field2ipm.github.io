@@ -1,0 +1,83 @@
+---
+title: "Schedule"
+---
+
+In general, there will be a mix of lecture material, interactive exercises, field excursions, and labs in the hours between breakfast, lunch, and dinner. Meals and the time before breakfast and after dinner will be reserved for socialization and free time for exploration and rest.
+
+The local timezone is Mountain Daylight Time (UTC-6). Sunrise will be \~6:15am and sunset will be \~8:00pm.
+
+Meals will be served in the billy barr Community Center (bbcc).
+
+| Breakfast   | Lunch       | Dinner      |
+|-------------|-------------|-------------|
+| 7:00-8:00am | Noon-1:00pm | 6:00-7:00pm |
+
+::: callout-important
+The workshop schedule below is a rough draft. Additional changes will be made as the workshop plan is finalized.
+:::
+
+## Prior to arrival: Prep work
+
+We will have readings and prep-work for you to complete before the workshop begins. This will include things like installing and (re)familiarizing yourself with [R](https://www.r-project.org).
+
+## Sunday August 9: Arrival Travel Day
+
+<!-- |  |  | -->
+<!-- |------------------|------------------------------------------------------| -->
+<!-- | before 11:00am | Arrive to Denver International Airport, collect any checked bags, exit airport to RTD "A" line train to Union Station (\~45 min ride) | -->
+<!-- | 1:45pm | Depart to Gunnison on Bustang Outrider, leaves from belowground bus terminal at Union Station (\~6 hour ride) | -->
+<!-- |  |  | -->
+
+## Monday August 10: Workshop Day 1
+
+<!-- |               |                                           |      | -->
+<!-- |---------------|-------------------------------------------|------| -->
+<!-- | 7:00-8:00am   | *Breakfast*                               |      | -->
+<!-- | 8:00-8:15am   | Instructor introductions, Code of Conduct |      | -->
+<!-- | 8:15-8:35am   | 1-slide Introductions (part 1)            |      | -->
+<!-- | 8:35-9:00am   | Life cycles                               | Paul | -->
+<!-- | 9:00-9:20am   | 1-slide Introductions (part 2)            |      | -->
+<!-- | 9:20-9:50am   | State variables & vital rates             | Amy  | -->
+<!-- | 10:00-10:15am | BREAK                                     |      | -->
+<!-- | 10:15-11:00am | Population dynamics                       | Will | -->
+<!-- | 11:00-11:30am | Vital rate regressions                    | Paul | -->
+<!-- | 11:30-noon    | *Research-focused networking*             |      | -->
+<!-- | Noon-1:00pm   | *Lunch*                                   |      | -->
+<!-- | 1:00-2:30pm   | FIELD: Hydrophyllum & marmots             |      | -->
+<!-- | 2:30-3:00pm   | Exercise: Fitting vital rate regressions  |      | -->
+<!-- | 3:00-3:15pm   | BREAK                                     |      | -->
+<!-- | 3:15-4:00     |                                           |      | -->
+<!-- |               |                                           |      | -->
+<!-- | 6:00-7:00pm   | *Dinner*                                  |      | -->
+<!-- | 7:00-8:30pm   | Mixer (TBD)                               |      | -->
+
+## Tuesday August 11: Workshop Day 2
+
+<!-- |             |             | -->
+<!-- |-------------|-------------| -->
+<!-- | 7:00-8:00am | *Breakfast* | -->
+<!-- |             |             | -->
+<!-- | Noon-1:00pm | *Lunch*     | -->
+<!-- |             |             | -->
+<!-- | 6:00-7:00pm | *Dinner*    | -->
+<!-- | 7:00-       | Campfire?   | -->
+
+## Wednesday August 12: Workshop Day 3
+
+<!-- |             |               | -->
+<!-- |-------------|---------------| -->
+<!-- | 7:00-8:00am | *Breakfast*   | -->
+<!-- |             |               | -->
+<!-- | Noon-1:00pm | *Lunch*       | -->
+<!-- | 1:00pm      | Group picture | -->
+<!-- |             |               | -->
+<!-- | 6:00-7:00pm | *Dinner*      | -->
+<!-- | 7:00-       | Campfire?     | -->
+
+## Thursday August 12: Departure Travel Day
+
+<!-- |             |             | -->
+<!-- |-------------|-------------| -->
+<!-- | 7:00-8:00am | *Breakfast* | -->
+<!-- |             |             | -->
+<!-- |             |             | -->

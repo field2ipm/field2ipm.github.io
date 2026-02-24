@@ -7,10 +7,10 @@ website:
     left:
       - apply.qmd
       - faq.qmd
-      - href: https://www.rmbl.org/
-        text: "Venue: RMBL"
       - schedule.qmd
       - content.qmd
+      - href: https://www.rmbl.org/
+        text: "Venue: RMBL"
   search: 
     location: navbar
     type: overlay

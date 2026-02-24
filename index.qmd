@@ -1,11 +1,11 @@
----
-title: "Integral Projection Models: From field data collection to model construction and analysis"
----
+![](photos/hymenoxys-grandiflora.JPG){fig-align="center" width="4in"}
 
-This is a Quarto website.
+## Instructors
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- ![](photos/will-valeriana.jpg){width="2in"} -->
+[Will Petry](https://parameterizeit.github.io/), North Carolina State University
 
-```{r}
-1 + 1
-```
+[Amy Iler](https://amymarieiler.weebly.com/), Chicago Botanic Garden & Northwestern University
+
+<!-- ![](photos/paul-cactus.jpg){width="2in"} -->
+[Paul CaraDonna](https://paulcaradonna.weebly.com/), Chicago Botanic Garden & Northwestern University
