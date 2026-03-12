@@ -3,7 +3,21 @@ title: "Apply"
 ---
 
 ::: callout-important
-## Application due date
+## Application review begins
 
-**March ##, 2026**
+**April 8, 2026**
 :::
+
+To apply, prepare the following items in **a single pdf file**, following this naming structure: `[family name] [given name]_RMBL IPM workshop application.pdf`.
+
+1.  A max. two-page abbreviated CV
+
+2.  A 1/2 page statement outlining how your research will benefit from this workshop or how it helps you achieve your career goals
+
+3.  (*graduate students and postdocs only*) A max. one-page letter of support from your academic advisor at your home institution. If you would like to be considered for financial support, please include
+
+4.  *(if requesting financial support)* The statement: “I request financial support for this workshop” along with your projected expenses (registration + travel) and a brief description of current and/or pending sources of financial support for your participation.
+
+Finally, if you will already be at the RMBL for the workshop dates, please also indicate this at the end of the ½ page statement.
+
+For full consideration, send this file via email to Amy Iler ([ailer\@chicagobotanic.org](mailto:ailer@chicagobotanic.org)) no later than **April 8^th^, 2026**, using the subject line “Application for RMBL IPM course”. If you are interested but think you need more time, please email Amy Iler. We aim to notify applicants of their workshop acceptance status by **April 22^nd^, 2026,** and if applicable, we will continue to review applications after this date until the course is full.

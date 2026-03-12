@@ -11,6 +11,8 @@ website:
       - content.qmd
       - href: https://www.rmbl.org/
         text: "Venue: RMBL"
+      - href: pdf/IPM-course-RMBL.pdf
+        text: "Workshop ad"
   search: 
     location: navbar
     type: overlay
