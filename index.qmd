@@ -2,11 +2,11 @@ Participants in this workshop will learn how to build, parameterize, and analyze
 
 ## Instructors
 
-![](photos/will-valeriana.jpg){width="2in"} [Will Petry](https://parameterizeit.github.io/), North Carolina State University
+![](photos/will-valeriana.jpg){fig-alt="Will Petry sitting next to a very large plant rosette." fig-align="left" width="2in"} [Will Petry](https://parameterizeit.github.io/), North Carolina State University
 
-![](photos/amy-delphinium.jpeg){width="2in"} [Amy Iler](https://amymarieiler.weebly.com/), Chicago Botanic Garden & Northwestern University
+![](photos/amy-delphinium.jpeg){fig-alt="Amy Iler next to a blue/purple-flowered plant." fig-align="left" width="2in"} [Amy Iler](https://amymarieiler.weebly.com/), Chicago Botanic Garden & Northwestern University
 
-![](photos/paul-cactus.jpg){width="2in"} [Paul CaraDonna](https://paulcaradonna.weebly.com/), Chicago Botanic Garden & Northwestern University
+![](photos/paul-cactus.jpg){fig-alt="Paul CaraDonna standing next to a large barrel cactus" fig-align="left" width="2in"} [Paul CaraDonna](https://paulcaradonna.weebly.com/), Chicago Botanic Garden & Northwestern University
 
 ## Workshop description
 
@@ -16,4 +16,4 @@ This workshop will guide participants through the process of demographic census 
 
 If time permits, we will also cover advanced topics selected based on a pre-course survey of the participants. Potential advanced topics include: propagating uncertainty, density- and frequency-dependence, incorporating environmentally-driven vital rates, or multiple state variables.
 
-![](photos/hymenoxys-grandiflora.JPG){fig-align="center" width="3in"}
+![](photos/hymenoxys-grandiflora.JPG){fig-alt="A yellow-flowered aster plant growing on a mountain ridge." fig-align="center" width="3in"}
