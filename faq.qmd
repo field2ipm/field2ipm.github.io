@@ -37,33 +37,33 @@ We are anticipating 10-12 participants this year.
 We anticipate offering the workshop again in 2027.
 :::
 
-## Application
+<!-- ## Application -->
 
-::: {.callout-tip collapse="true"}
-## How do I apply?
+<!-- ::: {.callout-tip collapse="true"} -->
+<!-- ## How do I apply? -->
 
-Please follow the instructions [here](apply.qmd).
-:::
+<!-- Please follow the instructions [here](apply.qmd). -->
+<!-- ::: -->
 
-::: {.callout-tip collapse="true"}
-## When is the application deadline?
+<!-- ::: {.callout-tip collapse="true"} -->
+<!-- ## When is the application deadline? -->
 
-The deadline to receive full consideration is **April 8, 2026**. If you are interested but need additional time, please email Amy Iler.
+<!-- The deadline to receive full consideration is **April 8, 2026**. If you are interested but need additional time, please email Amy Iler. -->
 
-We will continue accepting applications after the review date if slots remain open.
-:::
+<!-- We will continue accepting applications after the review date if slots remain open. -->
+<!-- ::: -->
 
-::: {.callout-tip collapse="true"}
-## When will I hear back about whether I have been invited to participate?
+<!-- ::: {.callout-tip collapse="true"} -->
+<!-- ## When will I hear back about whether I have been invited to participate? -->
 
-We aim to send emailed invitations by **April 22, 2026**.
-:::
+<!-- We aim to send emailed invitations by **late** **April**. -->
+<!-- ::: -->
 
-::: {.callout-tip collapse="true"}
-## If I receive an invitation to participate, when do I need to decide whether to accept?
+<!-- ::: {.callout-tip collapse="true"} -->
+<!-- ## If I receive an invitation to participate, when do I need to decide whether to accept? -->
 
 <!-- Please let us know **as soon as you can** so we can begin planning for your participation or to make the slot available to an alternate. The last date to accept and confirm that you have your flights booked is **April 15, 2026**. -->
-:::
+<!-- ::: -->
 
 ## Cost, Housing & Dining
 

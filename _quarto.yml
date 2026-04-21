@@ -3,22 +3,22 @@ project:
 
 website:
   title: "IPMs: From field data collection to model construction and analysis"
-  announcement:
-    icon: info-circle-fill
-    dismissable: true
-    content: "Applications are now OPEN. Review begins April 8."
-    type: primary
-    position: below-navbar
+  # announcement:
+  #   icon: info-circle-fill
+  #   dismissable: true
+  #   content: "Applications are now OPEN. Review begins April 8."
+  #   type: primary
+  #   position: below-navbar
   navbar:
     left:
-      - apply.qmd
+      # - apply.qmd
       - faq.qmd
       - schedule.qmd
       - content.qmd
       - href: https://www.rmbl.org/
         text: "Venue: RMBL"
-      - href: pdf/IPM-course-RMBL-2026.pdf
-        text: "Workshop ad"
+      # - href: pdf/IPM-course-RMBL-2026.pdf
+      #   text: "Workshop ad"
   search: 
     location: navbar
     type: overlay
