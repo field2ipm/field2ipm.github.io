@@ -2,6 +2,4 @@
 title: "Workshop materials"
 ---
 
-::: callout-important
 Workshop materials will be distributed to participants prior to the workshop start. Please contact the instructors for access.
-:::

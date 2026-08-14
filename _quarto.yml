@@ -12,11 +12,11 @@ website:
   navbar:
     left:
       # - apply.qmd
-      - faq.qmd
       - schedule.qmd
       - content.qmd
+      - faq.qmd
       - href: https://www.rmbl.org/
-        text: "Venue: RMBL"
+        text: "↗Venue: RMBL"
       # - href: pdf/IPM-course-RMBL-2026.pdf
       #   text: "Workshop ad"
   search: 
