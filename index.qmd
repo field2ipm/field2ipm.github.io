@@ -1,12 +1,16 @@
-:::: callout-tip
+::: callout-tip
 ## Update
 
-*(21 April)* Applications are now closed for the 2026 workshop. We anticipate offering the workshop again in 2027.
-
-Please contact us if you applied but haven't received our response. We will continue to update the [FAQs](faq.qmd), [Schedule](schedule.qmd), and [Workshop Materials](content.qmd) pages as the workshop gets closer.
-::::
+*(13 August 2026)* Thank you all for a great inaugural course. We look forward to offering the course again in summer 2027.
+:::
 
 Participants in this workshop will learn how to build, parameterize, and analyze Integral Projection Models (IPM) for studying population dynamics. This course will be taught at the Rocky Mountain Biological Laboratory in Gothic, Colorado, from **August 10–12, 2026**. The course will emphasize decision making across the entire workflow, from census design (outdoor field excursions to local demographic studies) through model construction and projection (indoor lectures and exercises).
+
+![Group photo of the 2026 Workshop at Maxfield Meadow. Photo credit: David Inouye.](photos/group_photo_01-IPM-workshop-RMBL-2026.jpeg){fig-alt="Group photo of workshop participants standing in a meadow with Gothic Mountain in the background." fig-align="center"}
+
+![Workshop participants build Integral Projection Models for their own data.](photos/individual_model_work_03-IPM-workshop-RMBL-2026.jpeg){fig-alt="Workshop participants sitting at a conference table working on their laptops." fig-align="center"}
+
+![Field demographic census exercise.](photos/heliomerus_demog_20-IPM-workshop-RMBL-2026.jpeg){fig-alt="Groups of people working together to set up plant demography plots in a montane meadow." fig-align="center"}
 
 ## Instructors
 
